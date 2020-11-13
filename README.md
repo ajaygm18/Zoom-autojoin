@@ -6,16 +6,16 @@
   * It runs in background there is no gui for this exe it runs in background.
   * You must run it only once in a day because csv file contain as many as meetings , it enters zoom meeting at mentioned time and exits afters the meeting time completes as provided in csv file.
 #  Instructions
-  *Clone my code to your pc 
-  *Open the exe by double click, the installation setup opens and asks you where to install i recommend you to create a new folder in desktop and install it there.
-  *Go to the folder where you installed files and open the .csv file with notepad and check the format in which i have already written inputs (be careful about the commas).
-  *After saving the csv file according to your time table just run the main.exe file and you will see mouse cursor loading that means you hav done your job and leave the rest to my app and relax you can never be marked as absentee in the attendance book.
-  *Enjoy.
+  * Clone my code to your pc 
+  * Open the exe by double click, the installation setup opens and asks you where to install i recommend you to create a new folder in desktop and install it there.
+  * Go to the folder where you installed files and open the .csv file with notepad and check the format in which i have already written inputs (be careful about the commas).
+  * After saving the csv file according to your time table just run the main.exe file and you will see mouse cursor loading that means you hav done your job and leave the rest to my app and relax you can never be marked as absentee in the attendance book.
+  * Enjoy.
 # My contact
-  *Insta - @ajaygm18 
-  *Pull requests and bug reports are always welcomed.
+  * Insta - @ajaygm18 
+  * Pull requests and bug reports are always welcomed.
 # Drawbacks
-  *This works only in Windows 8, Windows 10 if not run compatibility troubleshooter.
+  * This works only in Windows 8, Windows 10 if not run compatibility troubleshooter.
 # Happy zoom class  
   
  
