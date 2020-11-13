@@ -11,4 +11,9 @@
   *Go to the folder where you installed files and open the .csv file with notepad and check the format in which i have already written inputs (be careful about the commas).
   *After saving the csv file according to your time table just run the main.exe file and you will see mouse cursor loading that means you hav done your job and leave the rest to my app and relax you can never be marked as absentee in the attendance book.
   *Enjoy.
+# My contact
+  *Insta - @ajaygm18 
+  *Pull requests and bug reports are always welcomed.
+#Happy zoom class  
+  
  
