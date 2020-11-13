@@ -14,6 +14,8 @@
 # My contact
   *Insta - @ajaygm18 
   *Pull requests and bug reports are always welcomed.
-#Happy zoom class  
+# Drawbacks
+  *This works only in Windows 8, Windows 10 if not run compatibility troubleshooter.
+# Happy zoom class  
   
  
