@@ -1,6 +1,7 @@
 # Zoom-autojoin
-# Brief description on Why to choose my zoom-autojoin.
+# Brief description on Why to choose my zoom-autojoin. 
   Basically you already have so many repositories related to zoom automation with python but if you already have somany why would I create another xerox copy of the others ?
+  Because
   * The best feature in my opinion is this was built with python but does not require python to run the script (I am not joking) the  script was converted to exe which runs directly by executing.
   * It does not require image recognition it reuns from virtual keyboard from pyautogui and it takes meeting timings, credentials, subject from a .csv file.
   * It runs in background there is no gui for this exe it runs in background.
